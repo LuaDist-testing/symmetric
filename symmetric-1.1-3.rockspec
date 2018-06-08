@@ -1,17 +1,17 @@
 -- This file was automatically generated for the LuaDist project.
 
 package = "symmetric"
-version = "1.1-2"
+version = "1.1-3"
 
 -- LuaDist source
 source = {
-  tag = "1.1-2",
+  tag = "1.1-3",
   url = "git://github.com/LuaDist-testing/symmetric.git"
 }
 -- Original source
 -- source = {
 -- 	url = "git://github.com/mikejsavage/lua-symmetric.git",
--- 	tag = "v1.1-2",
+-- 	tag = "v1.1-3",
 -- }
 
 description = {
