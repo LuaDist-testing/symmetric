@@ -1,18 +1,10 @@
--- This file was automatically generated for the LuaDist project.
-
 package = "symmetric"
-version = "1.1-1"
+version = "1.0-2"
 
--- LuaDist source
 source = {
-  tag = "1.1-1",
-  url = "git://github.com/LuaDist-testing/symmetric.git"
+	url = "git://github.com/mikejsavage/lua-symmetric.git",
+	tag = "v1.0-2",
 }
--- Original source
--- source = {
--- 	url = "git://github.com/mikejsavage/lua-symmetric.git",
--- 	tag = "v1.1",
--- }
 
 description = {
 	summary = "A Lua wrapper for symmetric cryptography, using libsodium's secret box",
